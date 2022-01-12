@@ -27,7 +27,7 @@ memory
     ```
     output:
 
-    ![solutions of a standard quadratic equation](assets\solve_eg_1.png)
+    ![solutions of a standard quadratic equation](./assets/solve_eg_1.png)
 
     Specify the variable to solve for and solve the quadratic equation for a.
     ```
